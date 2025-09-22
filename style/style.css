@@ -1,0 +1,6 @@
+/*Source: https://preview.uideck.com/items/xtreme-tailwind/ */
+/*Before start "npm run dev" or "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch" */
+:root{--myviolet:#5d21d1}
+header{background: url('../materials/hero-bg.jpg.jpeg') no-repeat center/cover;}
+@media only screen and (min-width:768px){}
+@media only screen and (min-width:1025px){}
